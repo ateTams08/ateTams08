@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Atasha 👋
 
-<!--
-**ateTams08/ateTams08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BS Data Science & Analytics sophomore at the University of Santo Tomas 
+| Dean's Lister | Digital Marketing × Data
 
-Here are some ideas to get you started:
+## 🛠 Skills
+**Data:** Python · R · SQL · Google Sheets  
+**Tools:** Canva · Meta Business Suite · Asana · Airtable  
+**Currently learning:** Data visualization · Machine learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- 🌡️ [NCR Heat Index Dashboard](https://github.com/ateTams08/ncr-heat-index) — 
+  Real-time heat index monitoring for Metro Manila using Open-Meteo API
+
+## 📫 Reach me
+atashageronimo@gmail.com
