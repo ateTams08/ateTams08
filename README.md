@@ -35,11 +35,20 @@ Currently building toward data roles where I can bridge analytics and strategy.
 
 ---
 
-## 📌 Featured Project
+## 📌 Featured Projects
 
-**[ncr-heat-index](https://github.com/ateTams08/ncr-heat-index)** — NCR Heat Index Dashboard
-Real-time heat index visualization for Metro Manila using the Open-Meteo API.
-Built with Python.
+**[HeatBeat: NCR Heat Index Dashboard](https://github.com/ateTams08/ncr-heat-index)**
+Real-time heat index monitoring dashboard for Metro Manila using the Open-Meteo API.
+Automated daily data pipeline via GitHub Actions. Built with Python and Tableau Public.
+
+**[Ricery: Rice Business Management System](https://github.com/ateTams08/ricery)**
+Full-stack web system for rice retail operations — product inventory, transactions,
+customer and supplier management. Built with PHP, MySQL, and HTML/CSS.
+
+**[AI & ML Projects](https://github.com/ateTams08/AI-ML-Projects)**
+Collection of machine learning projects including income classification using
+Gradient Boosting (87.78% accuracy) and voting bloc discovery via Market Basket
+Analysis on 2022 Philippine Senatorial Elections data.
 
 ---
 
